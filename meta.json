@@ -1,11 +1,11 @@
 {
-  "commit": "423037160b413adf90c536b681ea6e84ba8c4f8a",
-  "date": "2026-08-30",
+  "commit": "db83415f834a5fcbe48c656cc171b5f62f8a498e",
+  "date": "2026-08-31",
   "environment": {
     "cuda": "13.2",
     "driver": "595.71.05",
     "gpu": "NVIDIA H200",
-    "image": "ghcr.io/tile-ai/tileops-runner:cu132-torch2.13-tl-afcebed1",
+    "image": "ghcr.io/tile-ai/tileops-runner:cu132-torch2.13-tl-afcebed1-2",
     "mig": "Disabled",
     "power_limit_w": 700.0,
     "repeat_ms": 100.0,
@@ -204,6 +204,7 @@
     "sentry-sdk": "2.67.1",
     "setproctitle": "1.3.7",
     "setuptools": "80.10.2",
+    "setuptools-scm": "10.2.1",
     "shellingham": "1.5.4",
     "six": "1.17.0",
     "sniffio": "1.3.1",
@@ -214,7 +215,7 @@
     "tabulate": "0.10.0",
     "tiktoken": "0.13.0",
     "tilelang": "0.1.11+cu132.gitafcebed1",
-    "tileops": "0.0.1.dev922+g423037160",
+    "tileops": "0.0.1.dev925+gdb83415f8",
     "tokenizers": "0.22.2",
     "tokenspeed-mla": "0.1.8",
     "tokenspeed-triton": "3.8.10.post20260721",
@@ -234,6 +235,7 @@
     "uv": "0.12.3",
     "uvicorn": "0.52.1",
     "uvloop": "0.22.1",
+    "vcs-versioning": "2.3.1",
     "vllm": "0.27.1",
     "watchfiles": "1.2.0",
     "websockets": "17.0.1",
@@ -242,5 +244,5 @@
     "yarl": "1.24.5",
     "z3-solver": "4.15.4.0"
   },
-  "run_id": "33326813985"
+  "run_id": "33422619207"
 }
