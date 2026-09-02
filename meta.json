@@ -1,14 +1,17 @@
 {
-  "commit": "4157ef4e9b6e8a1039cecbc649abac82156a339d",
-  "date": "2026-09-01",
+  "commit": "832ab699cdecad307ba0935794e6d7eb62984b47",
+  "date": "2026-09-02",
   "environment": {
     "cuda": "13.2",
     "driver": "595.71.05",
     "gpu": "NVIDIA H200",
     "image": "ghcr.io/tile-ai/tileops-runner:cu132-torch2.13-tl-afcebed1-2",
+    "memory_clock_mhz": 3201.0,
     "mig": "Disabled",
     "power_limit_w": 700.0,
     "repeat_ms": 100.0,
+    "sm_clock_max_mhz": 1980.0,
+    "sm_clock_mhz": 1500.0,
     "tilelang": "0.1.11+cu132.gitafcebed1",
     "torch": "2.13.0+cu132",
     "warmup_ms": 25.0
@@ -215,7 +218,7 @@
     "tabulate": "0.10.0",
     "tiktoken": "0.13.0",
     "tilelang": "0.1.11+cu132.gitafcebed1",
-    "tileops": "0.0.1.dev935+g4157ef4e9",
+    "tileops": "0.0.1.dev940+g832ab699c",
     "tokenizers": "0.22.2",
     "tokenspeed-mla": "0.1.8",
     "tokenspeed-triton": "3.8.10.post20260721",
@@ -244,5 +247,5 @@
     "yarl": "1.24.5",
     "z3-solver": "4.15.4.0"
   },
-  "run_id": "33541087780"
+  "run_id": "33664549328"
 }
