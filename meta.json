@@ -1,5 +1,5 @@
 {
-  "commit": "832ab699cdecad307ba0935794e6d7eb62984b47",
+  "commit": "19fbf7ec29ccde12c4bbd2ea28948b88a49b8120",
   "date": "2026-09-02",
   "environment": {
     "cuda": "13.2",
@@ -218,7 +218,7 @@
     "tabulate": "0.10.0",
     "tiktoken": "0.13.0",
     "tilelang": "0.1.11+cu132.gitafcebed1",
-    "tileops": "0.0.1.dev940+g832ab699c",
+    "tileops": "0.0.1.dev944+g19fbf7ec2",
     "tokenizers": "0.22.2",
     "tokenspeed-mla": "0.1.8",
     "tokenspeed-triton": "3.8.10.post20260721",
@@ -247,5 +247,5 @@
     "yarl": "1.24.5",
     "z3-solver": "4.15.4.0"
   },
-  "run_id": "33664549328"
+  "run_id": "33675973713"
 }
