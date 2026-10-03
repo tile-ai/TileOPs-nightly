@@ -1,19 +1,19 @@
 {
-  "commit": "0b1d6247bf11f907878996f9986c914ceba794a2",
-  "date": "2026-10-02",
+  "commit": "07e7671344c7c22247629ae9dbe7eebc3b2f7dcd",
+  "date": "2026-10-03",
   "environment": {
     "cuda": "13.2",
     "driver": "595.71.05",
     "gpu": "NVIDIA H200",
-    "image": "ghcr.io/tile-ai/tileops-runner:cu132-torch2.13-tl-afcebed1-2",
+    "image": "ghcr.io/tile-ai/tileops-runner:cu132-torch2.13-tl-0.1.12",
     "memory_clock_mhz": 3201.0,
     "mig": "Disabled",
     "power_limit_w": 700.0,
     "repeat_ms": 100.0,
     "sm_clock_max_mhz": 1980.0,
     "sm_clock_mhz": 1500.0,
-    "tilelang": "0.1.11+cu132.gitafcebed1",
-    "tileops": "0.0.1.dev1186+g0b1d6247b",
+    "tilelang": "0.1.12",
+    "tileops": "0.0.1.dev1204+g07e767134",
     "torch": "2.13.0+cu132",
     "warmup_ms": 25.0
   },
@@ -65,10 +65,12 @@
     "einops": "0.8.2",
     "email-validator": "2.3.0",
     "execnet": "2.1.2",
+    "fast_hadamard_transform": "1.1.0",
     "fastapi": "0.136.3",
     "fastapi-cli": "0.0.32",
     "fastapi-cloud-cli": "0.23.0",
     "fastar": "0.11.0",
+    "faster_hadamard_transform": "0.0.0",
     "fastsafetensors": "0.3.3",
     "filelock": "3.32.2",
     "fla-core": "0.5.2",
@@ -218,8 +220,8 @@
     "sympy": "1.14.0",
     "tabulate": "0.10.0",
     "tiktoken": "0.13.0",
-    "tilelang": "0.1.11+cu132.gitafcebed1",
-    "tileops": "0.0.1.dev1186+g0b1d6247b",
+    "tilelang": "0.1.12",
+    "tileops": "0.0.1.dev1204+g07e767134",
     "tokenizers": "0.22.2",
     "tokenspeed-mla": "0.1.8",
     "tokenspeed-triton": "3.8.10.post20260721",
@@ -248,5 +250,5 @@
     "yarl": "1.24.5",
     "z3-solver": "4.15.4.0"
   },
-  "run_id": "37044538658"
+  "run_id": "37146837926"
 }
