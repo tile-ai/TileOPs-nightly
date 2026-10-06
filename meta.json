@@ -1,6 +1,6 @@
 {
-  "commit": "b3600b1b182379724dee2589c6ea2313c7d2e2fa",
-  "date": "2026-10-05",
+  "commit": "991aebf65e3a2065efd712794852bb19cde65a89",
+  "date": "2026-10-06",
   "environment": {
     "cuda": "13.2",
     "driver": "595.71.05",
@@ -13,7 +13,7 @@
     "sm_clock_max_mhz": 1980.0,
     "sm_clock_mhz": 1500.0,
     "tilelang": "0.1.12",
-    "tileops": "0.0.1.dev1225+gb3600b1b1",
+    "tileops": "0.0.1.dev1239+g991aebf65",
     "torch": "2.13.0+cu132",
     "warmup_ms": 25.0
   },
@@ -224,7 +224,7 @@
     "tabulate": "0.10.0",
     "tiktoken": "0.13.0",
     "tilelang": "0.1.12",
-    "tileops": "0.0.1.dev1225+gb3600b1b1",
+    "tileops": "0.0.1.dev1239+g991aebf65",
     "tokenizers": "0.22.2",
     "tokenspeed-mla": "0.1.8",
     "tokenspeed-triton": "3.8.10.post20260721",
@@ -253,5 +253,5 @@
     "yarl": "1.24.5",
     "z3-solver": "4.15.4.0"
   },
-  "run_id": "37352706553"
+  "run_id": "37507947686"
 }
