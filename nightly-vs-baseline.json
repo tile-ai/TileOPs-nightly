@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "vs fastest baseline",
-  "message": "100% ahead",
-  "color": "brightgreen"
+  "message": "99.9% ahead",
+  "color": "green"
 }
