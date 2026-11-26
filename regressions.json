@@ -1,50 +1,10 @@
 [
   {
-    "op": "DropoutFwdOp",
-    "config": "test_dropout_bench[hidden-4k-float16]",
-    "base_ms": 0.005536,
-    "curr_ms": 0.006432,
-    "delta_pct": 16.184971098265898,
-    "tflops": 1.3042
-  },
-  {
-    "op": "DropoutFwdOp",
-    "config": "test_dropout_bench[hidden-10k-bfloat16]",
-    "base_ms": 0.01088,
-    "curr_ms": 0.012352,
-    "delta_pct": 13.529411764705875,
-    "tflops": 1.69782
-  },
-  {
-    "op": "GEMMW4A8FwdOp",
-    "config": "test_gemm_w4a8_bench[ds-r1-down-b96]",
-    "base_ms": 0.0467055,
-    "curr_ms": 0.051649,
-    "delta_pct": 10.584406547408772,
-    "tflops": 493.73
-  },
-  {
-    "op": "GEMMW4A8FwdOp",
-    "config": "test_gemm_w4a8_bench[ds-r1-down-b81]",
-    "base_ms": 0.044964,
-    "curr_ms": 0.0509285,
-    "delta_pct": 13.265056489636166,
-    "tflops": 422.883
-  },
-  {
-    "op": "GEMMW4A8FwdOp",
-    "config": "test_gemm_w4a8_bench[ds-r1-down-b97]",
-    "base_ms": 0.0473635,
-    "curr_ms": 0.0528965,
-    "delta_pct": 11.68199140688504,
-    "tflops": 487.081
-  },
-  {
     "op": "GEMMW4A8FwdOp",
     "config": "test_gemm_w4a8_bench[ds-r1-up-b129]",
     "base_ms": 0.048227,
-    "curr_ms": 0.058783,
-    "delta_pct": 21.88815393866507,
-    "tflops": 582.209
+    "curr_ms": 0.058849,
+    "delta_pct": 22.02500673896365,
+    "tflops": 581.556
   }
 ]
