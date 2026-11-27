@@ -1,10 +1,1 @@
-[
-  {
-    "op": "GEMMW4A8FwdOp",
-    "config": "test_gemm_w4a8_bench[ds-r1-up-b129]",
-    "base_ms": 0.048227,
-    "curr_ms": 0.058849,
-    "delta_pct": 22.02500673896365,
-    "tflops": 581.556
-  }
-]
+[]
